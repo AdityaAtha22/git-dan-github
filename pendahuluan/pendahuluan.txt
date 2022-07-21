@@ -1,0 +1,32 @@
+PENDAHULUAN
+
+version control system
+----------------------
+- sebuah sistem yang menyimpan rekaman perubahan pada source code
+- memungkinkan bekerja berkolaborasi dengan lebih baik
+- mengetahui siapa yang melakukan perubahan dan kapan perubahan terjadi
+- memungkinkan kembali ke keadaan sebelum perubahan(checkout)
+
+git
+---
+adalah sebuah software untuk mengelola perubahan file di dalam repository
+
+istilah git
+-----------
+- repo : folder project
+- commit : rekaman/riwayat perubahan dari repo
+- hash : penanda unik pada sebuah commit
+- checkout : berpindah ke sebuah commit
+- branch : cabang bebas dari sebuah commit
+- merge : menggabungkan branch
+- remote : sumber yang memiliki repo
+- clone : mengambil repo dari remote
+- push : mengirimkan commit ke repo
+- pull : mengambil commit dari repo
+
+github
+------
+adalah sebuah website untuk mengelola project git
+
+
+

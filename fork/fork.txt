@@ -1,0 +1,8 @@
+FORK
+
+definisi
+--------
+- membuat duplikat dari repo orang lain beserta history-nya
+- jembatan antara repo original dan duplikatnya
+- modifikasi terhadap repo original
+- berkontribusi pada repo orang lain
